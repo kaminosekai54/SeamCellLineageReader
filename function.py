@@ -1,5 +1,6 @@
 from io import FileIO
 import json
+from sys import call_tracing
 
 treatedDataFile = "./Ressources/treatedData.json"
 treatedFileFile = "./Ressources/treatedFile.json"
@@ -18,4 +19,6 @@ def loadData(file):
     def readFile(filePath):
         with open(filePath) as fileObj:
             CanStartReading = False
-            line = fileObj.read(1)
+            line = fileObj.readline()
+            while CanStartReading  == False:
+                if line ==
