@@ -1,0 +1,239 @@
+% =============== WORM SEAM CELL PATTERNING LINEAGE FILE ===========
+%
+% include any comments on the experiment here
+% COMMENTS:
+% animal was imaged with DIC (50ms/100%) every 15min
+%
+%This is a sample file
+%
+% FOLDER: 22-March-2022 on Shubh_Data7
+%
+% AUTOMATED IMAGING WAS DONE
+% EXPERIMENT : 22/03/2022
+% WORM CHAMBER 1
+%
+%
+%
+% ================= The '##' marks the beginning of relevant information
+%
+## Global_infos
+genotype:N2
+imaging_method:automated
+temperature_stage_set_to:20
+water_bath_temperature_set_to:18.5
+measured_temperatures_with_these_settings_on_objective: 20.0
+% Day when worm was released from L1 arrest
+plating_date_time:2022/03/22:10-00
+growth_condition:liquid
+% Day when worm was mounted
+mount_date_time:2022/03/22:11-00
+% Day when worm experiment was finished
+end_of_experiment_date:2022/03/24:19-00
+
+
+
+
+## MOLTING_INFORMATION
+% Date of entering L1 lethargus
+l1_mouthcap_appearance_date:NA 
+% Date of L1/L2 molt
+l1_molt_date:NA 	
+l1_molt_time:NC
+l1_molt_frame_time:NC
+
+% Date of entering L2 lethargus
+l2_mouthcap_appearance_date:NA
+% Date of L2/L3 molt
+l2_molt_date:NA 
+l2_molt_time:03:28:00
+l2_molt_frame_time:03:28:00
+
+% Date of L3 lethargus
+l3_mouthcap_appearance_date:NA
+% Date of L3/L4 molt
+l3_molt_date:NA
+l3_molt_time:16:24:00
+l3_molt_frame_time:16:24:00
+
+% Date of 4 lethargus
+l4_mouthcap_appearance_date:NA
+% Date of L4/adult molt
+l4_molt_date:NA
+l4_molt_time:NC
+l4_molt_frame_time:NC
+
+## DIVISIONS
+# H1
+H1_div_date_time:2022/03/22:19-00
+H1_div_frame_time 08:16:00
+
+H1a_div_date_time:2022/03/23:04-00
+H1a_div_frame_time 08:16:00
+
+H1ap_div_date_time:2022/03/23:16-00
+H1ap_div_frame_time 08:16:00
+
+H1app_div_date_time:2022/03/24:05-00
+H1app_div_frame_time 08:16:00
+
+
+# V1
+V1_div_date_time:2022/03/22:18-50
+V1_div_frame_time 08:16:00
+
+V1p_div_date_time:2022/03/23:03-30
+V1p_div_frame_time 08:16:00
+
+V1pa_div_date_time:2022/03/23:04-10
+V1pa_div_frame_time 08:16:00
+
+V1pp_div_date_time:2022/03/23:03-50
+V1pp_div_frame_time 08:16:00
+
+V1pap_div_date_time:2022/03/23:14-50
+V1pap_div_frame_time 08:16:00
+
+V1ppp_div_date_time:2022/03/23:14-40
+V1ppp_div_frame_time 08:16:00
+
+
+V1papp_div_date_time:2022/03/24:02-50
+V1papp_div_frame_time 08:16:00
+
+V1pppp_div_date_time:2022/03/24:02-45
+V1pppp_div_frame_time 08:16:00
+
+
+
+# V2
+V2_div_date_time:2022/03/22:18-45
+V2_div_frame_time 08:16:00
+
+V2p_div_date_time:2022/03/23:03-20
+V2p_div_frame_time 08:16:00
+
+V2pa_div_date_time:2022/03/23:04-00
+V2pa_div_frame_time 08:16:00
+
+V2pp_div_date_time:2022/03/23:03-40
+V2pp_div_frame_time 08:16:00
+
+V2pap_div_date_time:2022/03/23:14-45
+V2pap_div_frame_time 08:16:00
+
+V2ppp_div_date_time:2022/03/23:14-30
+V2ppp_div_frame_time 08:16:00
+
+V2papp_div_date_time:2022/03/24:02-35
+V2papp_div_frame_time 08:16:00
+
+V2pppp_div_date_time:2022/03/24:02-40
+V2pppp_div_frame_time 08:16:00
+
+
+# V3
+V3_div_date_time:2022/03/22:18-40
+V3_div_frame_time 08:16:00
+
+V3p_div_date_time:2022/03/23:03-15
+V3p_div_frame_time 08:16:00
+
+V3pa_div_date_time:2022/03/23:03-55
+V3pa_div_frame_time 08:16:00
+
+V3pp_div_date_time:2022/03/23:03-40
+V3pp_div_frame_time 08:16:00
+
+V3pap_div_date_time:2022/03/23:14-35
+V3pap_div_frame_time 08:16:00
+
+V3ppp_div_date_time:2022/03/23:14-25
+V3ppp_div_frame_time 08:16:00
+
+V3papp_div_date_time:2022/03/24:02-30
+V3papp_div_frame_time 08:16:00
+
+V3pppp_div_date_time:2022/03/24:02-30
+V3pppp_div_frame_time 08:16:00
+
+
+# V4
+V4_div_date_time:2022/03/22:18-40
+V4_div_frame_time 08:16:00
+
+V4p_div_date_time:2022/03/23:03-15
+V4p_div_frame_time 08:16:00
+
+V4pa_div_date_time:2022/03/23:03-55
+V4pa_div_frame_time 08:16:00
+
+V4pp_div_date_time:2022/03/23:03-40
+V4pp_div_frame_time 08:16:00
+
+V4pap_div_date_time:2022/03/23:14-35
+V4pap_div_frame_time 08:16:00
+
+V4ppp_div_date_time:2022/03/23:14-25
+V4ppp_div_frame_time 08:16:00
+
+V4papp_div_date_time:2022/03/24:02-30
+V4papp_div_frame_time 08:16:00
+
+V4pppp_div_date_time:2022/03/24:02-30
+V4pppp_div_frame_time 08:16:00
+
+
+# V5
+V5_div_date_time:2022/03/22:18-25
+V5_div_frame_time 08:16:00
+
+V5p_div_date_time:2022/03/23:03-05
+V5p_div_frame_time 08:16:00
+
+V5pp_div_date_time:2022/03/23:03-15
+V5pp_div_frame_time 08:16:00
+
+V5ppp_div_date_time:2022/03/23:14-25
+V5ppp_div_frame_time 08:16:00
+
+V5pppp_div_date_time:2022/03/24:02-30
+V5pppp_div_frame_time 08:16:00
+
+
+# V6
+V6_div_date_time:2022/03/22:18-50
+V6_div_frame_time 08:16:00
+
+V6p_div_date_time:2022/03/23:03-30
+V6p_div_frame_time 08:16:00
+
+V6pa_div_date_time:2022/03/23:04-15
+V6pa_div_frame_time 08:16:00
+
+V6pp_div_date_time:2022/03/23:03-55
+V6pp_div_frame_time 08:16:00
+
+V6pap_div_date_time:2022/03/23:14-50
+V6pap_div_frame_time 08:16:00
+
+V6ppp_div_date_time:2022/03/23:14-35
+V6ppp_div_frame_time 08:16:00
+
+V6papp_div_date_time:2022/03/24:02-45
+V6papp_div_frame_time 08:16:00
+
+V6pppp_div_date_time:2022/03/24:02-50
+V6pppp_div_frame_time 08:16:00
+
+% EndOfDivisionInformation
+
+## FATES
+H1_fate: 1234A
+V1_fate 1234A
+V2_fate 1234A
+V3_fate 1234A
+V4_fate 1234A
+V5_fate 1234A
+V6_fate 1234A
+
+% EndOfFile
